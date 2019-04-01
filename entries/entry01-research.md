@@ -6,7 +6,7 @@
  
  Swift is a programming language developed by Apple to create apps for Apple/ios products including phones (iOS), computers (macOS), tablets (iOS), watches (watchOS), and tvs (tvOS). In my research, I discovered that the most updated version of the language, Swift 5, supports Python, JavaScript, and Ruby, as well as use of APIs. This will be helpful because of my current knowledge of Ruby and APIs. I will be able to incorporate these into my app to make it even more powerful.
  
- <img src="../images/01-shwifty.jpg" style="width: 300px;" />
+ <img src="../images/01-shwifty.jpg" style="width: 200px;" />
  
  ## Preliminary Tests
  
@@ -18,7 +18,7 @@
 
 I began following the instructions in the Apple Developer to make a simple meal-tracking app. One of the first steps is to launch the simulator. In XCode, there is a feature that allows you to see the code on a simulated iPhone, which I thought was really cool.
 
-![](images/01-simulator.gif)
+<img src="../images/01-simulator.gif" style="width: 300px;" />
 
 After doing this, however, I realized that this tutorial was too advanced for my minimal understanding of the language. I had not read the section in the documentation that explained the tutorial required familiarity with the Swift programming language. I needed to first get a basic understanding of the language and its syntax.
 
