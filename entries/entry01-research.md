@@ -49,13 +49,13 @@ According to [an article by Paul Hudson](https://www.hackingwithswift.com/exampl
 
 Logical and comparison operators remain the same as other languages. **||** is used to indicate OR. **&&** is used to indicate AND.
 
-Ternary conditionals used in Ruby bear the same syntax as in JavaScript.
+Ternary conditionals used in Ruby bear the same syntax as in Swift.
 
 ```swift
 question ? answer1 : answer2
 ```
 
-Regular conditions bear the same syntax as in Swift.
+Regular conditions bear the same syntax as in JavaScript.
 
 ```swift
 if question {
