@@ -132,6 +132,4 @@ We ultimately decided on the community service app. This would connect people wh
 1. Do further research based on what you find in a tutorial. This will help you understand why something functions the way it does.
 2. Learn by doing. Complete exercises and allow time to practice what you have learned to retain information better.
 
-[Previous](../entry01-research.md)
-
 [Table of Contents](../README.md)
