@@ -95,4 +95,6 @@ You can also evaluate math expressions using string interpolation using the same
 2. Try to make connections between what you know and what you are trying to learn. This allows for better retention of new information and a deeper understanding of the concepts.
 3. Make your own versions of what you find in tutorials. Test things out and change values because it is best to learn by doing.
 
+[Next](../entry01-research.md)
+
 [Table of Contents](../README.md)
