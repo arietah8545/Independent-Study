@@ -40,9 +40,9 @@ var result: Bool = true
 var y: String = "hello"
 ```
 
-## Excercises
+## Exercises
 
-Upon completion of the first lesson in the Udacity Tutorial, I completed the excercises provided in order to test my newfound knowledge. These excercises allowed me to practice string interpolation, declaration of variables and constants, and other basics explained in the first lesson.
+Upon completion of the first lesson in the Udacity Tutorial, I completed the exercises provided in order to test my newfound knowledge. These exercises allowed me to practice string interpolation, declaration of variables and constants, and other basics explained in the first lesson.
 
 ##### Examples:
 
@@ -90,7 +90,7 @@ According to [WeHeartSwift](https://www.weheartswift.com/loops/), "The differenc
 
 #### For
 
-A _for_ loops executes some code _for_ each item in a range. Similar to Ruby, Swift also uses range operators, which is a shortcut for expressing a range of values.
+A _for_ loop executes some code _for_ each item in a range. Similar to Ruby, Swift also uses range operators, which is a shortcut for expressing a range of values.
 
 ```swift
 // prints 1-10
@@ -121,8 +121,8 @@ for i in stride(from: 3, to: 1, by: -1) {
 When brainstorming ideas for an app to make, my partner and I came up with a few possible ideas:
 
 - Community service app
-- App that connects accepted students within a specifc university
-- Moodvie
+- An app that connects accepted students within a specific university
+- Moodvie: Gives a movie recommendation based on the user’s mood
 - Party planning app
 
 We ultimately decided on the community service app. This would connect people who wanted to volunteer with organizations in need of help.
@@ -131,5 +131,7 @@ We ultimately decided on the community service app. This would connect people wh
 
 1. Do further research based on what you find in a tutorial. This will help you understand why something functions the way it does.
 2. Learn by doing. Complete exercises and allow time to practice what you have learned to retain information better.
+
+[Previous](entry01-research.md) | [Next](entry03-week3.md)
 
 [Table of Contents](../README.md)
