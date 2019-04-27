@@ -93,6 +93,8 @@ I tested this in the simulator, which produced this result:
 
 As you can see, the button click changes the label from "Meal Name" to "Default Text".
 
+<img src="../images/04-spongebob.gif" style="width: 300px;" />
+
 ## Takeaways
 
 1. Change things to how you like it, even if it is different from a tutorial you are following. There is not always one set way to do things, so you should make modifications based on what you think looks or functions best.
