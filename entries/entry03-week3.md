@@ -44,6 +44,6 @@ To summarize, the sections of the UI and source code work together to controls, 
 2. Test as you learn. Before learning everything, you can give yourself small projects. Then you can learn what tools you need so you do not waste time.
 3. Summarize long explanations/definitions in your own words. This demonstrates a greater understanding of the concepts and provides you with a more concise explanation to look back on.
 
-[Previous](entry02-week2.md)
+[Previous](entry02-week2.md) | [Next](entry04-week4.md)
 
 [Table of Contents](../README.md)
