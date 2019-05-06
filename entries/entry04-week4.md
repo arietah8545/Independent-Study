@@ -101,6 +101,6 @@ As you can see, the button click changes the label from "Meal Name" to "Default 
 2. Reword things and use google until you fully understand an explanation. There is no use in skipping over the understanding part because you are only doing yourself a disservice by skipping over the knowledge.
 3. Test things out along the way. This makes it easier in the future when you are trying to solve a problem because you will know what was working previously.
 
-[Previous](entry03-week3.md)
+[Previous](entry03-week3.md) | [Next](entry05-week5.md)
 
 [Table of Contents](../README.md)
