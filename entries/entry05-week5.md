@@ -25,6 +25,6 @@ My next steps are to continue researching how to change the page and fix the vie
 1. Ask your friends for help. It is beneficial to get outside opinions and ideas because we often get stuck within ourselves and our own projects. This helps you step away from yourself and see something you would not have otherwise.
 2. It is ok if you cannot figure something out. As long as you perservere and do not give up on trying to solve the issue, you will find a way to make it work.
 
-[Previous](entry04-week4.md)
+[Previous](entry04-week4.md) | [Next](entry06-week6.md)
 
 [Table of Contents](../README.md)
