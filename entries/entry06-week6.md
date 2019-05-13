@@ -2,7 +2,7 @@
 
 ## Multiple Views
 
-By asking my partner for help, I was able to learn how to create multiple views that connect to one another. All I had to do was add a new view from the ___, then <kbd>control</kbd> + drag from one view to the other. When I realized it was that simple, my face was like this:
+By asking my partner for help, I was able to learn how to create multiple views that connect to one another. All I had to do was add a new view, then <kbd>control</kbd> + drag from one view to the other. When I realized it was that simple, my face was like this:
 
 <img src="../images/06-wow.gif" style="width: 300px;" />
 
