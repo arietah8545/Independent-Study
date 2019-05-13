@@ -1,12 +1,12 @@
 # Entry 6: Error
 
-## Mutliple Views
+## Multiple Views
 
 By asking my partner for help, I was able to learn how to create multiple views that connect to one another. All I had to do was add a new view from the ___, then <kbd>control</kbd> + drag from one view to the other. When I realized it was that simple, my face was like this:
 
 <img src="../images/06-wow.gif" style="width: 300px;" />
 
-In the beginning of the week, everything was working fine, and I was able to create my view, but I unexpectedly ran into an error making it impossible to load my files. This is the error I recieved, and it ocurred with any file I attempted to open:
+At the beginning of the week, everything was working fine, and I was able to create my view, but I unexpectedly ran into an error making it impossible to load my files. This is the error I received, and it occurred with any file I attempted to open:
 
 <img src="../images/06-error.png" style="width: 300px;" />
 
@@ -23,10 +23,10 @@ I opened Terminal and typed in the command: `sudo gem install -n /usr/local/bin 
 
 However, my issue still was not solved.
 
-5. I then adjusted my search again to "xcode unable to load author information" and found [this link](https://stackoverflow.com/questions/51053831/xcode-cant-check-who-to-blame-information). I tried to follow the information and play around with Terminal, but I stil had no luck solving the problem.
+5. I then adjusted my search again to "xcode unable to load author information" and found [this link](https://stackoverflow.com/questions/51053831/xcode-cant-check-who-to-blame-information). I tried to follow the information and play around with Terminal, but I still had no luck solving the problem.
 
 # Takeaways
-1. Ask your friends for help. There is no harm in reaching out to your peers, and you will dicover that there is a lot to learn from one another.
+1. Ask your friends for help. There is no harm in reaching out to your peers, and you will discover that there is a lot to learn from one another.
 2. Adjust your search in Google to help you best find the result you are looking for.
 
 [Previous](entry05-week5.md)
