@@ -8,3 +8,4 @@
 + [Entry 4: Workflow](entries/entry04-week4.md)
 + [Entry 5: Starting my App](entries/entry05-week5.md)
 + [Entry 6: Error](entries/entry06-week6.md)
++ [Entry 7: Errors and Changes](entries/entry07-week7.md)

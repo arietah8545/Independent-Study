@@ -29,6 +29,6 @@ However, my issue still was not solved.
 1. Ask your friends for help. There is no harm in reaching out to your peers, and you will discover that there is a lot to learn from one another.
 2. Adjust your search in Google to help you best find the result you are looking for.
 
-[Previous](entry05-week5.md)
+[Previous](entry05-week5.md) | [Next](entry07-week7.md)
 
 [Table of Contents](../README.md)
