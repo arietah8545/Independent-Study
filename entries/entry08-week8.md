@@ -8,7 +8,7 @@ We found a 4-part [tutorial](https://www.youtube.com/watch?v=LdL99CH23E8) on You
 
 I first created a new project called "Pong", but this time the app type is a game. In the scene, I added two rectangles for the paddles and a circle for the ball and placed them in their respective positions using x and y coordinates. The outcome was this:
 
-<img src="../images/06-game.png" style="width: 300px;" />
+<img src="../images/08-game.png" style="width: 300px;" />
 
 Next, I had to add physics definition to each sprite (or object). I was excited about this because I am currently taking AP Physics, so I was able to understand the terms used.
 
