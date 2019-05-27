@@ -19,6 +19,6 @@ My partner and I decided that an app with multiple views would not be possible t
 ## Takeaway
 1. It is ok to change your mind. Nothing needs to be set in stone, and sometimes it is necessary to change for your own benefit.
 
-[Previous](entry06-week6.md)
+[Previous](entry06-week6.md) | [Next](entry08-week8.md)
 
 [Table of Contents](../README.md)

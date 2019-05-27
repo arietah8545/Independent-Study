@@ -9,3 +9,4 @@
 + [Entry 5: Starting my App](entries/entry05-week5.md)
 + [Entry 6: Error](entries/entry06-week6.md)
 + [Entry 7: Errors and Changes](entries/entry07-week7.md)
++ [Entry 8: Pong](entries/entry08-week8.md)
