@@ -32,6 +32,6 @@ I was able to complete the basic functions of the game where the ball bounces of
 1. Divide and conquer. When working with a partner, it is best to make a plan for who will complete each aspect of the project in order to split up the workload.
 2. Connect your prior knowledge to what you are working on currently. It will give you a greater understanding of the topic.
 
-[Previous](entry07-week7.md)
+[Previous](entry07-week7.md) | [Next](entry09-week9.md)
 
 [Table of Contents](../README.md)

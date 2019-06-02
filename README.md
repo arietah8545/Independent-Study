@@ -10,3 +10,4 @@
 + [Entry 6: Error](entries/entry06-week6.md)
 + [Entry 7: Errors and Changes](entries/entry07-week7.md)
 + [Entry 8: Pong](entries/entry08-week8.md)
++ [Entry 9: Finishing Pong](entries/entry09-week9.md)
